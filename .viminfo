@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649046670,,"wq!"
+|2,0,1649047308,,"wq!"
+:q!
+|2,0,1649047228,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,78 @@
 # Registers:
 
 # File marks:
-'0  2  6  ~/sample.txt
-|4,48,2,6,1649046670,"~/sample.txt"
+'0  5  0  ~/.gitconfig
+|4,48,5,0,1649047308,"~/.gitconfig"
+'1  1  0  ~/.~confifile
+|4,49,1,0,1649047228,"~/.~confifile"
+'2  5  0  ~/.gitconfig
+|4,50,5,0,1649046949,"~/.gitconfig"
+'3  2  6  ~/sample.txt
+|4,51,2,6,1649046670,"~/sample.txt"
 
 # Jumplist (newest first):
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1649046877,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1649046877,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1649046877,"~/.gitconfig"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
+-'  2  6  ~/sample.txt
+|4,39,2,6,1649046670,"~/sample.txt"
 -'  2  6  ~/sample.txt
 |4,39,2,6,1649046670,"~/sample.txt"
 -'  1  0  ~/sample.txt
 |4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1649046658,"~/sample.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1649047298	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	4	12
+	+	5	0
+
+> ~/.~confifile
+	*	1649047225	0
+	"	1	0
 
 > ~/sample.txt
 	*	1649046668	0
