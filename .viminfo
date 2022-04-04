@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649051141,,"wq!"
+|2,0,1649052058,,"wq!"
 :q!
 |2,0,1649047228,,"q!"
 
@@ -27,30 +27,46 @@
 # Registers:
 
 # File marks:
-'0  1  15  ~/demo03.txt
-|4,48,1,15,1649051141,"~/demo03.txt"
-'1  2  6  ~/demo01.txt
-|4,49,2,6,1649051120,"~/demo01.txt"
-'2  2  10  ~/demo2.txt
-|4,50,2,10,1649049375,"~/demo2.txt"
-'3  3  3  ~/demo.txt
-|4,51,3,3,1649047473,"~/demo.txt"
-'4  5  0  ~/.gitconfig
-|4,52,5,0,1649047308,"~/.gitconfig"
-'5  1  0  ~/.~confifile
-|4,53,1,0,1649047228,"~/.~confifile"
-'6  5  0  ~/.gitconfig
-|4,54,5,0,1649046949,"~/.gitconfig"
-'7  2  6  ~/sample.txt
-|4,55,2,6,1649046670,"~/sample.txt"
+'0  2  0  ~/ssh.txt
+|4,48,2,0,1649052058,"~/ssh.txt"
+'1  1  15  ~/demo03.txt
+|4,49,1,15,1649051141,"~/demo03.txt"
+'2  2  6  ~/demo01.txt
+|4,50,2,6,1649051120,"~/demo01.txt"
+'3  2  10  ~/demo2.txt
+|4,51,2,10,1649049375,"~/demo2.txt"
+'4  3  3  ~/demo.txt
+|4,52,3,3,1649047473,"~/demo.txt"
+'5  5  0  ~/.gitconfig
+|4,53,5,0,1649047308,"~/.gitconfig"
+'6  1  0  ~/.~confifile
+|4,54,1,0,1649047228,"~/.~confifile"
+'7  5  0  ~/.gitconfig
+|4,55,5,0,1649046949,"~/.gitconfig"
+'8  2  6  ~/sample.txt
+|4,56,2,6,1649046670,"~/sample.txt"
 
 # Jumplist (newest first):
+-'  2  0  ~/ssh.txt
+|4,39,2,0,1649052058,"~/ssh.txt"
+-'  1  0  ~/ssh.txt
+|4,39,1,0,1649052044,"~/ssh.txt"
+-'  1  15  ~/demo03.txt
+|4,39,1,15,1649051141,"~/demo03.txt"
 -'  1  15  ~/demo03.txt
 |4,39,1,15,1649051141,"~/demo03.txt"
 -'  2  6  ~/demo01.txt
 |4,39,2,6,1649051120,"~/demo01.txt"
 -'  2  6  ~/demo01.txt
 |4,39,2,6,1649051120,"~/demo01.txt"
+-'  2  6  ~/demo01.txt
+|4,39,2,6,1649051120,"~/demo01.txt"
+-'  2  6  ~/demo01.txt
+|4,39,2,6,1649051120,"~/demo01.txt"
+-'  1  0  ~/demo01.txt
+|4,39,1,0,1649051106,"~/demo01.txt"
+-'  1  0  ~/demo01.txt
+|4,39,1,0,1649051106,"~/demo01.txt"
 -'  1  0  ~/demo01.txt
 |4,39,1,0,1649051106,"~/demo01.txt"
 -'  1  0  ~/demo01.txt
@@ -63,6 +79,22 @@
 |4,39,2,10,1649049375,"~/demo2.txt"
 -'  2  10  ~/demo2.txt
 |4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
 -'  1  0  ~/demo2.txt
 |4,39,1,0,1649049361,"~/demo2.txt"
 -'  1  0  ~/demo2.txt
@@ -87,6 +119,38 @@
 |4,39,3,3,1649047473,"~/demo.txt"
 -'  3  3  ~/demo.txt
 |4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
 -'  1  0  ~/demo.txt
 |4,39,1,0,1649047449,"~/demo.txt"
 -'  1  0  ~/demo.txt
@@ -135,118 +199,63 @@
 |4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
 |4,39,5,0,1649047308,"~/.gitconfig"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
--'  1  0  ~/.~confifile
-|4,39,1,0,1649047228,"~/.~confifile"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
--'  5  0  ~/.gitconfig
-|4,39,5,0,1649046949,"~/.gitconfig"
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
 
 # History of marks within files (newest to oldest):
+
+> ~/ssh.txt
+	*	1649052054	0
+	"	2	0
+	^	2	0
+	.	1	17
+	+	1	17
 
 > ~/demo03.txt
 	*	1649051139	0
