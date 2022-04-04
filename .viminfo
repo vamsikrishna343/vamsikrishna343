@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649049375,,"wq!"
+|2,0,1649051141,,"wq!"
 :q!
 |2,0,1649047228,,"q!"
 
@@ -27,28 +27,78 @@
 # Registers:
 
 # File marks:
-'0  2  10  ~/demo2.txt
-|4,48,2,10,1649049375,"~/demo2.txt"
-'1  3  3  ~/demo.txt
-|4,49,3,3,1649047473,"~/demo.txt"
-'2  5  0  ~/.gitconfig
-|4,50,5,0,1649047308,"~/.gitconfig"
-'3  1  0  ~/.~confifile
-|4,51,1,0,1649047228,"~/.~confifile"
+'0  1  15  ~/demo03.txt
+|4,48,1,15,1649051141,"~/demo03.txt"
+'1  2  6  ~/demo01.txt
+|4,49,2,6,1649051120,"~/demo01.txt"
+'2  2  10  ~/demo2.txt
+|4,50,2,10,1649049375,"~/demo2.txt"
+'3  3  3  ~/demo.txt
+|4,51,3,3,1649047473,"~/demo.txt"
 '4  5  0  ~/.gitconfig
-|4,52,5,0,1649046949,"~/.gitconfig"
-'5  2  6  ~/sample.txt
-|4,53,2,6,1649046670,"~/sample.txt"
+|4,52,5,0,1649047308,"~/.gitconfig"
+'5  1  0  ~/.~confifile
+|4,53,1,0,1649047228,"~/.~confifile"
+'6  5  0  ~/.gitconfig
+|4,54,5,0,1649046949,"~/.gitconfig"
+'7  2  6  ~/sample.txt
+|4,55,2,6,1649046670,"~/sample.txt"
 
 # Jumplist (newest first):
+-'  1  15  ~/demo03.txt
+|4,39,1,15,1649051141,"~/demo03.txt"
+-'  2  6  ~/demo01.txt
+|4,39,2,6,1649051120,"~/demo01.txt"
+-'  2  6  ~/demo01.txt
+|4,39,2,6,1649051120,"~/demo01.txt"
+-'  1  0  ~/demo01.txt
+|4,39,1,0,1649051106,"~/demo01.txt"
+-'  1  0  ~/demo01.txt
+|4,39,1,0,1649051106,"~/demo01.txt"
 -'  2  10  ~/demo2.txt
 |4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  2  10  ~/demo2.txt
+|4,39,2,10,1649049375,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
+-'  1  0  ~/demo2.txt
+|4,39,1,0,1649049361,"~/demo2.txt"
 -'  1  0  ~/demo2.txt
 |4,39,1,0,1649049361,"~/demo2.txt"
 -'  3  3  ~/demo.txt
 |4,39,3,3,1649047473,"~/demo.txt"
 -'  3  3  ~/demo.txt
 |4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  3  3  ~/demo.txt
+|4,39,3,3,1649047473,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1649047449,"~/demo.txt"
 -'  1  0  ~/demo.txt
 |4,39,1,0,1649047449,"~/demo.txt"
 -'  1  0  ~/demo.txt
@@ -61,6 +111,78 @@
 |4,39,5,0,1649047308,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
 |4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649047308,"~/.gitconfig"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
+-'  1  0  ~/.~confifile
+|4,39,1,0,1649047228,"~/.~confifile"
 -'  1  0  ~/.~confifile
 |4,39,1,0,1649047228,"~/.~confifile"
 -'  1  0  ~/.~confifile
@@ -93,156 +215,52 @@
 |4,39,5,0,1649046949,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
 |4,39,5,0,1649046949,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1649046877,"~/.gitconfig"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  2  6  ~/sample.txt
-|4,39,2,6,1649046670,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1649046658,"~/sample.txt"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1649046949,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/demo03.txt
+	*	1649051139	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/demo01.txt
+	*	1649051118	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
 
 > ~/demo2.txt
 	*	1649049373	0
